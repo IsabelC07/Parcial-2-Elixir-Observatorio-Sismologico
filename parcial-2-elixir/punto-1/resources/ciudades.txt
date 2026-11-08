@@ -1,0 +1,7 @@
+C01@Armenia@304314
+C02@Calarcá@78684
+C03@Circasia@30941
+
+C04@@15000
+C05@Montenegro@-20
+C06@Salento
