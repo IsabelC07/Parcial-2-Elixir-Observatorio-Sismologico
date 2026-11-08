@@ -1,0 +1,3 @@
+# Archivos compilados y volcados de la máquina virtual de Erlang
+*.beam
+erl_crash.dump
